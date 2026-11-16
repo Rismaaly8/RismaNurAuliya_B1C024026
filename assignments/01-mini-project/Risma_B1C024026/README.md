@@ -1,4 +1,4 @@
-# Mini Assignment - Klasifikasi Kanker Payudara
+# Mini Assignment - Breast Cancer Classification
 
 ## Identitas Mahasiswa
 - **Nama:** Risma Nur Auliya
